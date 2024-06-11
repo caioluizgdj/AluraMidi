@@ -3,4 +3,3 @@
 
 Consiste em um jogo de teclas, onde a tecla selecionada emite um som.</p>
 
-![image](https://github.com/caioluizgdj/AluraMidi/assets/79705865/4ba3b9a1-06f7-4f50-9863-3ea46ba221bd)
